@@ -38,3 +38,4 @@ ehthumbs.db
 node_modules/
 my_env/ 
 *.log
+.env
